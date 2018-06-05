@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/que/Ejemplo.cpp
+Ejemplo.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/que/Ejemplo.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/que/Ejemplo.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/que/main.cpp
+iostream
+-
+

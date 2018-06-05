@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1518388433 source:/Users/eduardogonzalez/Desktop/EGO-OpMatrices/Matriz.cpp
+	"Matriz.h"
+	<iostream>
+	<limits>
+	<iomanip>
+	<sstream>
+
+1518388433 /Users/eduardogonzalez/Desktop/EGO-OpMatrices/Matriz.h
+	<string>
+	"Excepciones.h"
+
+1518380302 /Users/eduardogonzalez/Desktop/EGO-OpMatrices/Excepciones.h
+	<string>
+
+1518385844 source:/Users/eduardogonzalez/Desktop/EGO-OpMatrices/main.cpp
+	<iostream>
+	<cstdlib>
+	"Matriz.h"
+	<iomanip>
+

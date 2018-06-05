@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ListaDobleOrdenada/Excepciones.h
+string
+-
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ListaDobleOrdenada/ListaDoble.h
+cstdlib
+-
+iostream
+-
+Excepciones.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ListaDobleOrdenada/Excepciones.h
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ListaDobleOrdenada/ListaOrdenada.h
+cstdlib
+-
+iostream
+-
+ListaDoble.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ListaDobleOrdenada/ListaDoble.h
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ListaDobleOrdenada/main.cpp
+iostream
+-
+ListaOrdenada.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ListaDobleOrdenada/ListaOrdenada.h
+

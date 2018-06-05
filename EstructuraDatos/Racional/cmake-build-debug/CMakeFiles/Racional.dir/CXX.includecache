@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Arreglo.cpp
+Arreglo.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Arreglo.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Arreglo.h
+Racional.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Racional.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/CapturaSegura.h
+iostream
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/iostream
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Excepcion.h
+string
+-
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Racional.cpp
+Racional.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Racional.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Racional.h
+cmath
+-
+Excepcion.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Excepcion.h
+sstream
+-
+iostream
+-
+CapturaSegura.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/CapturaSegura.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/main.cpp
+iostream
+-
+Racional.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Racional.h
+Arreglo.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Racional/Arreglo.h
+

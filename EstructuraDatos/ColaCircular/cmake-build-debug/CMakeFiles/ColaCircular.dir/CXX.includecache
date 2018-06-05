@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ColaCircular/Cola.h
+iostream
+-
+Excepciones.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/ColaCircular/Excepciones.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ColaCircular/Excepciones.h
+iostream
+-
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ColaCircular/main.cpp
+iostream
+-
+Cola.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/ColaCircular/Cola.h
+

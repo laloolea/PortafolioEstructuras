@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/Monticulo/Excepciones.h
+string
+-
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/Monticulo/Monticulo.h
+cstdlib
+-
+iostream
+-
+cmath
+-
+Excepciones.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/Monticulo/Excepciones.h
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/Monticulo/main.cpp
+iostream
+-
+Monticulo.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/Monticulo/Monticulo.h
+

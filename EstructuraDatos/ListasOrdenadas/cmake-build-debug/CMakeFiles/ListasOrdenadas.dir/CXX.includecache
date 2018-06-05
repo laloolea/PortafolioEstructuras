@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/ListasOrdenadas/ListaSimpleOrdenada.h
+cstdlib
+-
+iostream
+-
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/ListasOrdenadas/main.cpp
+iostream
+-
+ListaSimpleOrdenada.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/ListasOrdenadas/ListaSimpleOrdenada.h
+cstdlib
+-
+

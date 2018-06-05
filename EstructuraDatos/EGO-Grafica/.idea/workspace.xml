@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../AVL/AVL.h" description="p-&gt;hijoIzq-&gt;altura= max(ObtenerAltura (p-&gt;hijoIzq-..." line="451" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="EGO_Grafica" targetName="EGO_Grafica" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7e26638-1978-4428-b15e-31588b6fa626" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="EGO_Grafica" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cola.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cola.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="e#214#229#0" expanded="true" />
+                <element signature="e#253#268#0" expanded="true" />
+                <element signature="e#349#364#0" expanded="true" />
+                <element signature="e#2826#2841#0" expanded="true" />
+                <element signature="e#2921#2936#0" expanded="true" />
+                <element signature="e#2984#2999#0" expanded="true" />
+                <element signature="e#3107#3122#0" expanded="true" />
+                <element signature="e#3394#3409#0" expanded="true" />
+                <element signature="e#3781#3796#0" expanded="true" />
+                <element signature="e#3868#3883#0" expanded="true" />
+                <element signature="e#3982#3997#0" expanded="true" />
+                <element signature="e#4321#4336#0" expanded="true" />
+                <element signature="e#4940#4955#0" expanded="true" />
+                <element signature="e#5033#5048#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pila.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pila.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#204#224#0" expanded="true" />
+                <element signature="e#3010#3026#0" expanded="true" />
+                <element signature="e#3098#3114#0" expanded="true" />
+                <element signature="e#3219#3235#0" expanded="true" />
+                <element signature="e#3292#3308#0" expanded="true" />
+                <element signature="e#3720#3735#0" expanded="true" />
+                <element signature="e#3924#3939#0" expanded="true" />
+                <element signature="e#4441#4456#0" expanded="true" />
+                <element signature="e#4653#4668#0" expanded="true" />
+                <element signature="e#4741#4756#0" expanded="true" />
+                <element signature="e#4835#4850#0" expanded="true" />
+                <element signature="e#4924#4939#0" expanded="true" />
+                <element signature="e#5000#5016#0" expanded="true" />
+                <element signature="e#5110#5126#0" expanded="true" />
+                <element signature="e#5220#5235#0" expanded="true" />
+                <element signature="e#5312#5327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Graph.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Graph.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="216" column="0" lean-forward="false" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+              <folding>
+                <element signature="e#55#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Graph.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graph.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1764">
+              <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+              <folding>
+                <element signature="e#113#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Iterator.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Iterator.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstIterator.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConstIterator.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedList.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13968">
+              <caret line="776" column="0" lean-forward="false" selection-start-line="776" selection-start-column="0" selection-end-line="776" selection-end-column="0" />
+              <folding>
+                <element signature="e#8824#8833#0" expanded="true" />
+                <element signature="e#9045#9054#0" expanded="true" />
+                <element signature="e#9314#9323#0" expanded="true" />
+                <element signature="e#9619#9628#0" expanded="true" />
+                <element signature="e#9939#9948#0" expanded="true" />
+                <element signature="e#10352#10361#0" expanded="true" />
+                <element signature="e#10638#10647#0" expanded="true" />
+                <element signature="e#11230#11239#0" expanded="true" />
+                <element signature="e#11528#11537#0" expanded="true" />
+                <element signature="e#11907#11916#0" expanded="true" />
+                <element signature="e#12509#12518#0" expanded="true" />
+                <element signature="e#12837#12846#0" expanded="true" />
+                <element signature="e#12974#12983#0" expanded="true" />
+                <element signature="e#13123#13132#0" expanded="true" />
+                <element signature="e#13365#13374#0" expanded="true" />
+                <element signature="e#13675#13684#0" expanded="true" />
+                <element signature="e#13825#13834#0" expanded="true" />
+                <element signature="e#13967#13976#0" expanded="true" />
+                <element signature="e#14298#14307#0" expanded="true" />
+                <element signature="e#14641#14650#0" expanded="true" />
+                <element signature="e#15185#15194#0" expanded="true" />
+                <element signature="e#15350#15359#0" expanded="true" />
+                <element signature="e#15543#15552#0" expanded="true" />
+                <element signature="e#15723#15732#0" expanded="true" />
+                <element signature="e#15932#15941#0" expanded="true" />
+                <element signature="e#16187#16196#0" expanded="true" />
+                <element signature="e#16508#16517#0" expanded="true" />
+                <element signature="e#16648#16657#0" expanded="true" />
+                <element signature="e#16801#16810#0" expanded="true" />
+                <element signature="e#16968#16977#0" expanded="true" />
+                <element signature="e#17194#17203#0" expanded="true" />
+                <element signature="e#17420#17429#0" expanded="true" />
+                <element signature="e#17645#17654#0" expanded="true" />
+                <element signature="e#17870#17879#0" expanded="true" />
+                <element signature="e#18052#18061#0" expanded="true" />
+                <element signature="e#18228#18237#0" expanded="true" />
+                <element signature="e#18382#18391#0" expanded="true" />
+                <element signature="e#18541#18550#0" expanded="true" />
+                <element signature="e#18691#18700#0" expanded="true" />
+                <element signature="e#18854#18863#0" expanded="true" />
+                <element signature="e#19051#19060#0" expanded="true" />
+                <element signature="e#19292#19301#0" expanded="true" />
+                <element signature="e#19528#19537#0" expanded="true" />
+                <element signature="e#19768#19777#0" expanded="true" />
+                <element signature="e#20003#20012#0" expanded="true" />
+                <element signature="e#20195#20204#0" expanded="true" />
+                <element signature="e#20381#20390#0" expanded="true" />
+                <element signature="e#20614#20623#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excepcion.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Excepcion.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>siz</find>
+      <find>vertex</find>
+      <find>hasnext</find>
+      <find>begin</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Grafo.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/Exception.h" />
+        <option value="$PROJECT_DIR$/Exception.h" />
+        <option value="$PROJECT_DIR$/Excepcion.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/Pila.h" />
+        <option value="$PROJECT_DIR$/Cola.h" />
+        <option value="$PROJECT_DIR$/Pila.h" />
+        <option value="$PROJECT_DIR$/Iterator.c" />
+        <option value="$PROJECT_DIR$/LinkedList.cpp" />
+        <option value="$PROJECT_DIR$/LinkedList.h" />
+        <option value="$PROJECT_DIR$/Iterator.cpp" />
+        <option value="$PROJECT_DIR$/ConstIterator.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/Graph.h" />
+        <option value="$PROJECT_DIR$/Graph.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="934" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EGO_Grafica" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="EGO-Grafica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EGO_Grafica" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="EGO-Grafica" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EGO_Grafica">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EGO_Grafica" RUN_TARGET_NAME="EGO_Grafica" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="EGO_Grafica" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EGO_Grafica" TARGET_NAME="EGO_Grafica" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EGO_Grafica" RUN_TARGET_NAME="EGO_Grafica">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EGO_Grafica" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e26638-1978-4428-b15e-31588b6fa626" name="Default" comment="" />
+      <created>1527006486753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527006486753</updated>
+      <workItem from="1527006488503" duration="12437000" />
+      <workItem from="1527092657733" duration="1238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13675000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="938" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122023806" sideWeight="0.732852" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.122023806" sideWeight="0.26714802" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36027715" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator</url>
+          <line>538</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cola.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#214#229#0" expanded="true" />
+            <element signature="e#253#268#0" expanded="true" />
+            <element signature="e#349#364#0" expanded="true" />
+            <element signature="e#2826#2841#0" expanded="true" />
+            <element signature="e#2921#2936#0" expanded="true" />
+            <element signature="e#2984#2999#0" expanded="true" />
+            <element signature="e#3107#3122#0" expanded="true" />
+            <element signature="e#3394#3409#0" expanded="true" />
+            <element signature="e#3781#3796#0" expanded="true" />
+            <element signature="e#3868#3883#0" expanded="true" />
+            <element signature="e#3982#3997#0" expanded="true" />
+            <element signature="e#4321#4336#0" expanded="true" />
+            <element signature="e#4940#4955#0" expanded="true" />
+            <element signature="e#5033#5048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pila.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#204#224#0" expanded="true" />
+            <element signature="e#3010#3026#0" expanded="true" />
+            <element signature="e#3098#3114#0" expanded="true" />
+            <element signature="e#3219#3235#0" expanded="true" />
+            <element signature="e#3292#3308#0" expanded="true" />
+            <element signature="e#3720#3735#0" expanded="true" />
+            <element signature="e#3924#3939#0" expanded="true" />
+            <element signature="e#4441#4456#0" expanded="true" />
+            <element signature="e#4653#4668#0" expanded="true" />
+            <element signature="e#4741#4756#0" expanded="true" />
+            <element signature="e#4835#4850#0" expanded="true" />
+            <element signature="e#4924#4939#0" expanded="true" />
+            <element signature="e#5000#5016#0" expanded="true" />
+            <element signature="e#5110#5126#0" expanded="true" />
+            <element signature="e#5220#5235#0" expanded="true" />
+            <element signature="e#5312#5327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding>
+            <element signature="e#113#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConstIterator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13968">
+          <caret line="776" column="0" lean-forward="true" selection-start-line="776" selection-start-column="0" selection-end-line="776" selection-end-column="0" />
+          <folding>
+            <element signature="e#8824#8833#0" expanded="true" />
+            <element signature="e#9045#9054#0" expanded="true" />
+            <element signature="e#9314#9323#0" expanded="true" />
+            <element signature="e#9619#9628#0" expanded="true" />
+            <element signature="e#9939#9948#0" expanded="true" />
+            <element signature="e#10352#10361#0" expanded="true" />
+            <element signature="e#10638#10647#0" expanded="true" />
+            <element signature="e#11230#11239#0" expanded="true" />
+            <element signature="e#11528#11537#0" expanded="true" />
+            <element signature="e#11907#11916#0" expanded="true" />
+            <element signature="e#12509#12518#0" expanded="true" />
+            <element signature="e#12837#12846#0" expanded="true" />
+            <element signature="e#12974#12983#0" expanded="true" />
+            <element signature="e#13123#13132#0" expanded="true" />
+            <element signature="e#13365#13374#0" expanded="true" />
+            <element signature="e#13675#13684#0" expanded="true" />
+            <element signature="e#13825#13834#0" expanded="true" />
+            <element signature="e#13967#13976#0" expanded="true" />
+            <element signature="e#14298#14307#0" expanded="true" />
+            <element signature="e#14641#14650#0" expanded="true" />
+            <element signature="e#15185#15194#0" expanded="true" />
+            <element signature="e#15350#15359#0" expanded="true" />
+            <element signature="e#15543#15552#0" expanded="true" />
+            <element signature="e#15723#15732#0" expanded="true" />
+            <element signature="e#15932#15941#0" expanded="true" />
+            <element signature="e#16187#16196#0" expanded="true" />
+            <element signature="e#16508#16517#0" expanded="true" />
+            <element signature="e#16648#16657#0" expanded="true" />
+            <element signature="e#16801#16810#0" expanded="true" />
+            <element signature="e#16968#16977#0" expanded="true" />
+            <element signature="e#17194#17203#0" expanded="true" />
+            <element signature="e#17420#17429#0" expanded="true" />
+            <element signature="e#17645#17654#0" expanded="true" />
+            <element signature="e#17870#17879#0" expanded="true" />
+            <element signature="e#18052#18061#0" expanded="true" />
+            <element signature="e#18228#18237#0" expanded="true" />
+            <element signature="e#18382#18391#0" expanded="true" />
+            <element signature="e#18541#18550#0" expanded="true" />
+            <element signature="e#18691#18700#0" expanded="true" />
+            <element signature="e#18854#18863#0" expanded="true" />
+            <element signature="e#19051#19060#0" expanded="true" />
+            <element signature="e#19292#19301#0" expanded="true" />
+            <element signature="e#19528#19537#0" expanded="true" />
+            <element signature="e#19768#19777#0" expanded="true" />
+            <element signature="e#20003#20012#0" expanded="true" />
+            <element signature="e#20195#20204#0" expanded="true" />
+            <element signature="e#20381#20390#0" expanded="true" />
+            <element signature="e#20614#20623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excepcion.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3888">
+          <caret line="216" column="0" lean-forward="true" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+          <folding>
+            <element signature="e#55#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grafo.h" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iterator">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="530" column="28" lean-forward="false" selection-start-line="530" selection-start-column="28" selection-end-line="530" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iosfwd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="193" column="64" lean-forward="false" selection-start-line="193" selection-start-column="64" selection-end-line="193" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/stack">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="193" column="32" lean-forward="false" selection-start-line="193" selection-start-column="32" selection-end-line="193" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/queue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="178" column="26" lean-forward="true" selection-start-line="178" selection-start-column="26" selection-end-line="178" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Excepcion.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator.c" />
+    <entry file="file://$PROJECT_DIR$/Pila.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#204#224#0" expanded="true" />
+            <element signature="e#3010#3026#0" expanded="true" />
+            <element signature="e#3098#3114#0" expanded="true" />
+            <element signature="e#3219#3235#0" expanded="true" />
+            <element signature="e#3292#3308#0" expanded="true" />
+            <element signature="e#3720#3735#0" expanded="true" />
+            <element signature="e#3924#3939#0" expanded="true" />
+            <element signature="e#4441#4456#0" expanded="true" />
+            <element signature="e#4653#4668#0" expanded="true" />
+            <element signature="e#4741#4756#0" expanded="true" />
+            <element signature="e#4835#4850#0" expanded="true" />
+            <element signature="e#4924#4939#0" expanded="true" />
+            <element signature="e#5000#5016#0" expanded="true" />
+            <element signature="e#5110#5126#0" expanded="true" />
+            <element signature="e#5220#5235#0" expanded="true" />
+            <element signature="e#5312#5327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13968">
+          <caret line="776" column="0" lean-forward="false" selection-start-line="776" selection-start-column="0" selection-end-line="776" selection-end-column="0" />
+          <folding>
+            <element signature="e#8824#8833#0" expanded="true" />
+            <element signature="e#9045#9054#0" expanded="true" />
+            <element signature="e#9314#9323#0" expanded="true" />
+            <element signature="e#9619#9628#0" expanded="true" />
+            <element signature="e#9939#9948#0" expanded="true" />
+            <element signature="e#10352#10361#0" expanded="true" />
+            <element signature="e#10638#10647#0" expanded="true" />
+            <element signature="e#11230#11239#0" expanded="true" />
+            <element signature="e#11528#11537#0" expanded="true" />
+            <element signature="e#11907#11916#0" expanded="true" />
+            <element signature="e#12509#12518#0" expanded="true" />
+            <element signature="e#12837#12846#0" expanded="true" />
+            <element signature="e#12974#12983#0" expanded="true" />
+            <element signature="e#13123#13132#0" expanded="true" />
+            <element signature="e#13365#13374#0" expanded="true" />
+            <element signature="e#13675#13684#0" expanded="true" />
+            <element signature="e#13825#13834#0" expanded="true" />
+            <element signature="e#13967#13976#0" expanded="true" />
+            <element signature="e#14298#14307#0" expanded="true" />
+            <element signature="e#14641#14650#0" expanded="true" />
+            <element signature="e#15185#15194#0" expanded="true" />
+            <element signature="e#15350#15359#0" expanded="true" />
+            <element signature="e#15543#15552#0" expanded="true" />
+            <element signature="e#15723#15732#0" expanded="true" />
+            <element signature="e#15932#15941#0" expanded="true" />
+            <element signature="e#16187#16196#0" expanded="true" />
+            <element signature="e#16508#16517#0" expanded="true" />
+            <element signature="e#16648#16657#0" expanded="true" />
+            <element signature="e#16801#16810#0" expanded="true" />
+            <element signature="e#16968#16977#0" expanded="true" />
+            <element signature="e#17194#17203#0" expanded="true" />
+            <element signature="e#17420#17429#0" expanded="true" />
+            <element signature="e#17645#17654#0" expanded="true" />
+            <element signature="e#17870#17879#0" expanded="true" />
+            <element signature="e#18052#18061#0" expanded="true" />
+            <element signature="e#18228#18237#0" expanded="true" />
+            <element signature="e#18382#18391#0" expanded="true" />
+            <element signature="e#18541#18550#0" expanded="true" />
+            <element signature="e#18691#18700#0" expanded="true" />
+            <element signature="e#18854#18863#0" expanded="true" />
+            <element signature="e#19051#19060#0" expanded="true" />
+            <element signature="e#19292#19301#0" expanded="true" />
+            <element signature="e#19528#19537#0" expanded="true" />
+            <element signature="e#19768#19777#0" expanded="true" />
+            <element signature="e#20003#20012#0" expanded="true" />
+            <element signature="e#20195#20204#0" expanded="true" />
+            <element signature="e#20381#20390#0" expanded="true" />
+            <element signature="e#20614#20623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConstIterator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cola.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#214#229#0" expanded="true" />
+            <element signature="e#253#268#0" expanded="true" />
+            <element signature="e#349#364#0" expanded="true" />
+            <element signature="e#2826#2841#0" expanded="true" />
+            <element signature="e#2921#2936#0" expanded="true" />
+            <element signature="e#2984#2999#0" expanded="true" />
+            <element signature="e#3107#3122#0" expanded="true" />
+            <element signature="e#3394#3409#0" expanded="true" />
+            <element signature="e#3781#3796#0" expanded="true" />
+            <element signature="e#3868#3883#0" expanded="true" />
+            <element signature="e#3982#3997#0" expanded="true" />
+            <element signature="e#4321#4336#0" expanded="true" />
+            <element signature="e#4940#4955#0" expanded="true" />
+            <element signature="e#5033#5048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding>
+            <element signature="e#113#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graph.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="216" column="0" lean-forward="false" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+          <folding>
+            <element signature="e#55#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/ABB.h
+cstdlib
+-
+iostream
+-
+Cola.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/Cola.h
+Excepciones.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/Excepciones.h
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/CapturaSegura.h
+iostream
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/iostream
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/Cola.h
+iostream
+-
+Excepciones.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/Excepciones.h
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/Excepciones.h
+string
+-
+
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/main.cpp
+iostream
+-
+cstdlib
+-
+fstream
+-
+ABB.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/ABB.h
+CapturaSegura.h
+/Users/eduardogonzalez/Desktop/EstructuraDatos/EGO-ArbolBinarioBusqueda/CapturaSegura.h
+

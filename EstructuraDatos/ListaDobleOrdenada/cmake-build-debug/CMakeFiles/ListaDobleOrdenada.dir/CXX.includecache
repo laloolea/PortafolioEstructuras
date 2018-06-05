@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListaDobleOrdenada/ListaDobleOrdenada.h
+cstdlib
+-
+iostream
+-
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListaDobleOrdenada/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+ListaDobleOrdenada.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListaDobleOrdenada/ListaDobleOrdenada.h
+

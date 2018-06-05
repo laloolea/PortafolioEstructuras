@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Racional.dir/main.cpp.o CMakeFiles/Racional.dir/Racional.cpp.o CMakeFiles/Racional.dir/Arreglo.cpp.o  -o Racional 

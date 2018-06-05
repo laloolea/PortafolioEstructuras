@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/Elemento.cpp
+Elemento.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/Elemento.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/Elemento.h
+cstdlib
+-
+iostream
+-
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/Pila.cpp
+Pila.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/Pila.h
+Excepcion.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/Excepcion.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/Pila.h
+Elemento.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/Elemento.h
+iostream
+-
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/ListasPilaChar/main.cpp
+iostream
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Estructura-FIFO/Cola.h
+cstdlib
+-
+iostream
+-
+Excepciones.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Estructura-FIFO/Excepciones.h
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Estructura-FIFO/Excepciones.h
+string
+-
+
+/Users/eduardogonzalez/Desktop/Estructura de datos/Estructura-FIFO/main.cpp
+iostream
+-
+cstdlib
+-
+Cola.h
+/Users/eduardogonzalez/Desktop/Estructura de datos/Estructura-FIFO/Cola.h
+
